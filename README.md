@@ -1,2 +1,3 @@
 # hello-world
 Just getting started...
+Hello! My name is Artur. I'm 25. I live in Saint-Petersburg, Russia.
